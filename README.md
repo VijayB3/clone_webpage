@@ -1,4 +1,4 @@
-# 🌐 Webpage Clone Projects – Frontend Practice Repository.
+# 🌐 Webpage Clone Projects – Frontend Practice Repository
 
 This repository contains a collection of real-world website UI clones built using **HTML** and **CSS**.
 
